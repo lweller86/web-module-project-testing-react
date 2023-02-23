@@ -4,7 +4,7 @@ import Display from "./components/Display";
 
 export default function App() {
   const displayFunc = (data)=> {
-    console.log(data);
+   
   }
 
   return (
